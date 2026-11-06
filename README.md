@@ -1,5 +1,3 @@
-![Health Track](assets/cover.svg)
-
 # Health Track
 
 A contribution to a centralized medical follow-up platform using Spring Cloud services and an Angular dashboard. The project connected a business interface, service discovery and application authentication.
