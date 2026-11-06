@@ -7,7 +7,7 @@ A contribution to a centralized medical follow-up platform using Spring Cloud se
 **My role:** Full-Stack Developer · E-AMBITION internship · July–September 2025  
 **Author:** [Nizar Gassab](https://github.com/nizargassab)
 
-[View project](https://www.upwork.com/freelancers/~01e66249ec727ea66f?p=2016561944964386816) · [Portfolio case study](https://nizar-gassab-portfolio.vercel.app/projets/health-track/) · [LinkedIn](https://www.linkedin.com/in/nizar-gassab-b872b5244/)
+[View project](https://nizar-gassab-portfolio.vercel.app/projets/health-track/) · [Portfolio case study](https://nizar-gassab-portfolio.vercel.app/projets/health-track/) · [LinkedIn](https://www.linkedin.com/in/nizar-gassab-b872b5244/)
 
 ## What I worked on
 
@@ -38,7 +38,7 @@ Worked with Spring Cloud, API Gateway, Eureka and Docker containerization.
 
 ## Explore further
 
-- [Public project reference](https://www.upwork.com/freelancers/~01e66249ec727ea66f?p=2016561944964386816)
+- [Public project reference](https://nizar-gassab-portfolio.vercel.app/projets/health-track/)
 - [Project details](https://nizar-gassab-portfolio.vercel.app/projets/health-track/)
 - [All selected work](https://nizar-gassab-portfolio.vercel.app/#projets)
 
